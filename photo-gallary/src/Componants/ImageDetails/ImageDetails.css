@@ -1,0 +1,21 @@
+#image-detail-wrapper {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  word-wrap: break-word;
+  margin-top: 50px;
+}
+#image-detail-wrapper img {
+  width: 380px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+.content-wrap {
+  width: 380px;
+}
+.content-wrap p {
+  margin-top: 15px;
+  line-height: 1.2rem;
+}
